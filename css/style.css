@@ -1,0 +1,15 @@
+h1 {
+  font-size: 80px;
+  font-family: 'Crimson Text', serif;
+}
+
+p {
+  font-size:40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+a{
+  font-size: 33px;
+  text-decoration: none;
+  color: purple;
+}
